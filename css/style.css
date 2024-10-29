@@ -82,7 +82,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: #7AB2B2;
+    background-color: rgb(122, 109, 152)
 }
 
 .header>* {
@@ -150,7 +150,7 @@ body {
 }
 
 .signupbtn {
-    background-color: #7AB2B2;
+    background-color:  rgb(122, 109, 152);
     color: #0f2875;
     font-weight: bold;
     border: none;
@@ -423,7 +423,7 @@ body {
     }
 
     .spotifyPlaylists h1 {
-        color: rgb(103, 43, 53);
+        color: whitesmoke;
         padding: 4px;
     }
 
