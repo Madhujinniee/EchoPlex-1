@@ -68,6 +68,3 @@ EchoPlex is licensed under a private license. Redistribution or public use is no
 ---
 
 Thank you for choosing **EchoPlex**—your gateway to high-quality, exclusive music streaming.
-```
-
-This layout provides a clear, professional structure with sections divided by separators and formatted for easy readability. Let me know if you need further customization!
