@@ -1,6 +1,3 @@
-Here’s a polished version of the `README.md` with a more refined structure and formatting:
-
-```markdown
 # 🎶 EchoPlex: A Minimalist Music Experience
 
 **EchoPlex** is a streamlined, private music app, designed for those who appreciate high-quality music in an exclusive, user-friendly environment. Built for simplicity, EchoPlex provides a curated selection of music for a small, select user base, ensuring an enjoyable and distraction-free listening experience.
