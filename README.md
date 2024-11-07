@@ -15,21 +15,12 @@
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (Specify backend technology, e.g., Node.js and Express, if applicable)
-- **Database**: MongoDB (ensuring scalability and flexibility for user data management)
-
 ---
 
 ## 🚀 Getting Started
 
 > **Note**: EchoPlex is a private app and intended for a restricted user base. Ensure you have access permissions before proceeding.
 
-### Prerequisites
-
-To run EchoPlex locally, you will need:
-
-- **Node.js** and **npm** (if backend setup is required)
-- **MongoDB** (for local data storage)
 
 ### Installation
 
@@ -38,18 +29,6 @@ To run EchoPlex locally, you will need:
    git clone https://github.com/kuheli31/EchoPlex.git
    cd EchoPlex
    ```
-
-2. **Install Dependencies** (if backend is included):
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application**:
-   ```bash
-   npm start
-   ```
-   Once started, the app can be accessed locally at `http://localhost:3000` (or your specified port).
-
 ---
 
 ## 🤝 Contribution
